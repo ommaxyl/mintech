@@ -2,7 +2,6 @@
 
 Once upon a time in the city of Honeywood.
 EC2(Elastic Compute Cloud)- EC2 is a virtual machine in the cloud on which you have OS level control. 
-LightSail- This cloud computing tool automatically deploys and manages the computer, storage, and networking capabilities required to run your applications.
 AWS Lambda- This AWS service allows you to run functions in the cloud. The tool is a big cost saver for you as you to pay only when your functions execute.
 Migration services used to transfer data physically between your datacenter and AWS.
 
@@ -11,6 +10,5 @@ Amazon Glacier- It is an extremely low-cost storage service. It offers secure an
 
 WAF (Web Application Firewall)— WAF security service offers application-level protection and allows you to block SQL injection and helps you to block cross-site scripting attacks.
 Cloud Directory— This service allows you to create flexible, cloud-native directories for managing hierarchies of data along multiple dimensions.
-n
 KMS (Key Management Service)— It is a managed service. This security service helps you to create and control the encryption keys which allows you to encrypt your data.
 Organizations.
