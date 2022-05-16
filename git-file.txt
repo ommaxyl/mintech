@@ -1,4 +1,5 @@
- time to continue studying is now
+ Triange
+ade ``time to continue studying is now
 
 Once upon a time in the city of Honeywood.
 EC2(Elastic Compute Cloud)- EC2 is a virtual machine in the cloud on which you have OS level control. 
