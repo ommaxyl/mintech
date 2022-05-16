@@ -1,0 +1,18 @@
+
+
+Once upon a time in the city of Honeywood.
+EC2(Elastic Compute Cloud)- EC2 is a virtual machine in the cloud on which you have OS level control. 
+You can run this cloud server whenever you want.
+LightSail- This cloud computing tool automatically deploys and manages the computer, storage, and networking capabilities required to run your applications.
+Elastic Beanstalk- The tool offers automated deployment and provisioning of resources like a highly scalable production website.
+EKS (Elastic Container Service for Kubernetes)- The tool allows you to Kubernetes on Amazon cloud environment without installation.
+AWS Lambda- This AWS service allows you to run functions in the cloud. The tool is a big cost saver for you as you to pay only when your functions execute.
+Migration
+Migration services used to transfer data physically between your datacenter and AWS.
+
+DMS (Database Migration Service)– DMS service can be used to migrate on-site databases to AWS. It helps you to migrate from one type of database to another — for example, Oracle to MySQL.
+SMS (Server Migration Service)– SMS migration services allows you to migrate on-site servers to AWS easily and quickly.
+Snowball— Snowball is a small application which allows you to transfer terabytes of data inside and outside of AWS environment.
+Storage
+Amazon Glacier- It is an extremely low-cost storage service. It offers secure and fast storage for data archiving and backup.
+Amazon Elastic Block Store (EBS)- It provides block-level storage to use with Amazon EC2 instances. Amazon Elastic Block Store volumes are network-attached and remain independent from the life of an instance.
